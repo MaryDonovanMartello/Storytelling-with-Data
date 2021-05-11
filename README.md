@@ -17,21 +17,21 @@ This project was a class project for the data visualization course.  The goal wa
 
 **Executive Audience**
 
-![Exec](//images/Exec.PNG)
+![Exec](//Images/Exec.PNG)
 
 
 **Public Audience:  Blog**
 
-![Blog](/images/Blog.PNG)
+![Blog](/Images/Blog.PNG)
 
 
 **Public Audience:  Infographic**
 
-![Infographic](/images/Infographic.PNG)
+![Infographic](Images/Infographic.PNG)
 
 
 **Public Audience:  Presentation**
 
-![Presentation](/images/Presentation.PNG)
+![Presentation](/Images/Presentation.PNG)
 
 
