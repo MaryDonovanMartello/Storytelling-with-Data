@@ -17,7 +17,7 @@ This project was a class project for the data visualization course.  The goal wa
 
 **Executive Audience**
 
-![Exec](/images/Exec.PNG)
+![Exec](//images/Exec.PNG)
 
 
 **Public Audience:  Blog**
